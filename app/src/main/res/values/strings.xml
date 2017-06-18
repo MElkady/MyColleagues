@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MyColleagues</string>
+    <string name="give_them_some_feedback">Give them some feedback</string>
+    <string name="you_gave_them_feedback_recently">You gave them feedback recently</string>
+    <string name="error_loading_data">Error loading data</string>
+    <string name="clear">Clear</string>
+    <string name="give_feedback">Give feedback</string>
+
+    <string name="last_feedback_less_than_hour_ago">Last feedback you sent less than an hour ago</string>
+    <string name="last_feedback_hours_ago">Last feedback you sent: %1$dh ago</string>
+    <string name="last_feedback_days_ago">Last feedback you sent: %1$d days ago</string>
+    <string name="last_feedback_weeks_ago"><![CDATA[Last feedback you sent: <font color="#FFA500">%1$d weeks ago</font>]]></string>
+    <string name="last_feedback_months_ago"><![CDATA[Last feedback you sent: <font color="#FF0000">%1$d months ago</font>]]></string>
+    <string name="last_feedback_never"><![CDATA[<font color="red">You never gave a feedback!</font>]]></string>
+
+    <string name="sent_feedback_less_than_hour_ago">Feedback sent less than an hour ago</string>
+    <string name="sent_feedback_hours_ago">Feedback sent: %1$d hours ago</string>
+    <string name="sent_feedback_days_ago">Feedback sent: %1$d days ago</string>
+    <string name="sent_feedback_weeks_ago"><![CDATA[Feedback sent: <font color="#FFA500">%1$d weeks ago</font>]]></string>
+    <string name="sent_feedback_months_ago"><![CDATA[Feedback sent: <font color="#FF0000">%1$d months ago</font>]]></string>
+
+
+    <string name="feedback_given_to_x">Feedback given to %1$s:</string>
+    <string name="user_profile">User profile</string>
+</resources>
